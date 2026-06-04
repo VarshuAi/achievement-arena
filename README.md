@@ -1,2 +1,133 @@
-# achievement-arena
-Achievement farming arena — automated
+<!-- ========================================================================= -->
+<!--                        ACHIEVEMENT-ARENA — README                            -->
+<!--       Theme: Hacking | Day Rotated | Animated SVGs | Live Badges       -->
+<!-- ========================================================================= -->
+
+<div align="center">
+
+<!-- ============================== BANNER ============================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000,005f00,000000&height=180&section=header&text=achievement-arena&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+<!-- ============================== TYPING SVG ============================== -->
+
+<br/>
+
+<a href="https://github.com/VarshuAi/achievement-arena"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&weight=500&size=22&duration=3500&pause=800&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=80&lines=%F0%9F%95%B5%EF%B8%8F%20Establishing%20connection...;%F0%9F%94%93%20Bypassing%20firewalls...;%F0%9F%92%BB%20System%20decrypted%20successfully%21" alt="Typing SVG"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Version-1.0-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/Code-Tech-00FF00?style=for-the-badge&logo=code&logoColor=black" alt="Language"/>
+<img src="https://img.shields.io/badge/Status-Active-14354C?style=for-the-badge&logo=git&logoColor=white" alt="Status"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,005f00,000000&height=60&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
+
+<!-- ============================== ABOUT ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<samp>&nbsp;🕵️ DECRYPTION PROTOCOL (About)</samp>
+</h2>
+
+```yaml
+name: achievement-arena
+version: 1.0
+type: Repository
+author: VarshuAi
+description: >
+  Achievement farming arena — automated
+primary_tech: Code
+```
+
+<!-- ============================== FEATURES ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
+<samp>&nbsp;⚡ EXPLOIT CAPABILITIES (Features)</samp>
+</h2>
+
+- 🌐 **Optimized Performance** — Engineered for reliability and high throughput.
+- 🕵️ **Dynamic Design Theme** — Custom day-rotated style implemented.
+- ⚡ **Zero-Dependency Core** — Ready to boot without complex prerequisites.
+
+<!-- ============================== COMMANDS ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28">
+<samp>&nbsp;💻 TERMINAL EXPLOIT (Usage)</samp>
+</h2>
+
+```bash
+# Clone the repository structure
+git clone https://github.com/VarshuAi/achievement-arena.git
+cd achievement-arena
+```
+
+<!-- ============================== TECH STACK ============================== -->
+
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28">
+<samp>&nbsp;🛠️ Hacker Arsenal (Tech Stack)</samp>
+</h2>
+
+<div align="center">
+
+#### `>> SYSTEM INVENTORY`
+![Code](https://img.shields.io/badge/Code-Primary_Language-00FF00?style=for-the-badge&logoColor=black)
+![Git](https://img.shields.io/badge/Git-VCS-14354C?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<!-- ============================== SETUP ============================== -->
+
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28">
+<samp>&nbsp;🔌 TARGET CONNECTION (Setup)</samp>
+</h2>
+
+```bash
+# 1. Clone repository remote
+git clone https://github.com/VarshuAi/achievement-arena.git
+cd achievement-arena
+
+# 2. Check technical prerequsites
+# Ensure runtime matches requirements (Code)
+```
+
+<!-- ============================== STRUCTURE ============================== -->
+
+<h2>
+<samp>&nbsp;📁 ARCHIVE DECRYPTED (Structure)</samp>
+</h2>
+
+```
+achievement-arena/
+├── src/             # Source code entrypoints
+├── docs/            # Project documentation files
+├── README.md        # Interactive readme sheet
+└── LICENSE          # Permission details
+```
+
+<!-- ============================== FOOTER ============================== -->
+
+<div align="center">
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000,005f00,000000&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/VarshuAi"><img src="https://readme-typing-svg.demolab.com?font=Share%20Tech%20Mono&size=14&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+VarshuAi;Build+Fast.+Ship+Secure.+Scale+Infinite." alt="Typing SVG"/></a>
+
+<br/>
+
+<a href="https://github.com/VarshuAi"><img src="https://img.shields.io/badge/VarshuAi-Profile-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/></a>
+<a href="https://github.com/VarshuAi/achievement-arena"><img src="https://img.shields.io/badge/achievement-arena-Repo-00FF00?style=for-the-badge&logo=github&logoColor=black" alt="Repository"/></a>
+
+<br/>
+
+</div>
