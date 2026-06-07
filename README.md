@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Achievement farming arena — automated
+  name: achievement-arena version: 1.0 type: Repository author: VarshuAi description: >   Achievement farming arena — automated primary_tech: Code
 primary_tech: Code
 ```
 
