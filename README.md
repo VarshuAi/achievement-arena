@@ -1,3 +1,4 @@
+<!-- VARSHUAI-REDESIGN-v2 -->
 # ⚡ Achievement Arena
 
 > **Achievement farming arena — automated**  
